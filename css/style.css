@@ -8,16 +8,16 @@
   margin: 0 auto;
   background: radial-gradient(#eee, #def);
   padding: 10px;
-  border-radius: 50px;
-  border-style: solid;
+  border-radius: 5px;
+  border: 1px solid #888;
 }
 
 img {
   max-width: 230px;
   display: block;
   margin: 10px auto;
-  border-radius: 50px;
-  border-style: solid;
+  border-radius: 5px;
+  border: 1px solid #888;
 }
 
 h1, h2, h3, p {
