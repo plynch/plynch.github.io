@@ -1,0 +1,37 @@
+# Do not modify, move, or delete without human approval
+
+Patrick Lynch
+Austin, TX | (512) 698 - 4666 | patrickflynch@gmail.com
+github | plynch
+LinkedIn | patrickflynch
+Technical Skills
+Strong - TypeScript • JavaScript • React • Cypress • git • UNIX
+Some experience - Java • Ruby • Python
+Experience
+Fetch Package | Frontend Software Engineer 2022-2024
+● Built features with TypeScript in a React SPA to help tenants of multifamily buildings schedule package delivery
+● Wrote unit tests (Jest) and integration tests (Cypress) to monitor application performance
+● Built features to help warehouse personnel and delivery drivers route and deliver packages
+Dallas Mavericks | Consultant - Software Engineer 2019-2021
+● Primary frontend developer on a dashboard for presenting live data to coaches during basketball games
+● Built features in React within an AWS hosted Django application
+● Wrote SQL and Python to create new endpoints for player and game data
+Endurance International Group / Bluehost / Hostgator | Software Engineer 2016-2019
+● Helped grow an internal React proof of concept from a small team in a branch office to a major company initiative
+● Worked on build processes, internal tools, marketing promotions, and backend APIs
+Hack Reactor | Hacker in Residence 2016
+● Coached students on fundamentals of web development and software engineering
+● Led Introduction to JavaScript workshop while promoting sales funnel
+● Conducted technical interviews with prospective students and made admissions recommendations
+Cypress Semiconductor (formerly Spansion) | Technical Support Analyst 2013-2015
+● Monitored and maintained 1000+ UNIX and Windows virtual machines
+● Coordinated with local and international teams to resolve outages in wafer fabrication plant
+Apple (via Volt Technical Services) | Contractor - AppleCare Support Advisor 2012-2013
+● Discussed, diagnosed, and guided 20-50 customers per day through the repair of issues in Mac OS X
+Google (via Astreya Partners) | Vendor - Support Technician 2010-2011
+● Maintained and deployed Windows, OS X, and Linux systems across the organization
+Trinity University | Residential Computer Consultant 2007-2010
+● Helped students configure, troubleshoot, and repair primarily OS X and Windows systems
+Education
+Hack Reactor, Austin TX | Advanced Software Engineering Immersive 2016
+Trinity University, San Antonio TX | Bachelor of Arts, Communication and Computer Science 2010
